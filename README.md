@@ -12,11 +12,13 @@ Their revenue management team had decided to hire a third-party service provider
 
 ## Task list
 
-As a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task, the required inputs are located _[here](https://codebasics.io/challenge/codebasics-resume-project-challenge)_.
+As a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task, the required inputs are located _[here](https://github.com/Suryaprakashrathinam/Hospitality_PowerBI_Analysis/tree/main/Input%20Files)_.
 
-Create the metrics according to the metric list.
-Create a dashboard according to the mock-up provided by stakeholders.
-Create relevant insights that are not provided in the metric list/mock-up dashboard.
+1. Create the metrics according to the metric list.
+2. Create a dashboard according to the mock-up provided by stakeholders.
+3. Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
+
 **1.** Create a
 
 
