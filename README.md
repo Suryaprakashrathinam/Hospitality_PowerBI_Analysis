@@ -26,6 +26,17 @@ As a data analyst who has been provided with sample data and a mock-up dashboard
 
 ![Data Model](https://github.com/user-attachments/assets/d34a6296-0381-460d-a840-f30ce0a707ee)
 
+## Key learnings
+
+1.	Data Modelling
+2.	Calculated Measures and Columns
+3.	DAX (Data Analysis Expressions)
+4.	Effective Chart Selection
+5.	Interactive Dashboard Development
+6.	Identifying Key Trends and Patterns
+7.	Providing Actionable Recommendations
+8.	Understanding Business Context
+
 ## About Revenue
 
 ![About revenue](https://github.com/user-attachments/assets/0a7b740a-ce71-4a91-8da5-15db3fd40471)
@@ -41,4 +52,7 @@ As a data analyst who has been provided with sample data and a mock-up dashboard
 ## Some important insights
 
 ![Summary](https://github.com/user-attachments/assets/b105aa82-59da-4630-aedf-0dc8ffd5a401)
+
+
+
 
