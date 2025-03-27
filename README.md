@@ -20,18 +20,25 @@ As a data analyst who has been provided with sample data and a mock-up dashboard
 
 ## Mock up dashboard
 
+![mock up dashboard_atliq grands](https://github.com/user-attachments/assets/0e8d16e0-c1f0-40ab-9957-3a99af16a01d)
 
-**1.** Create a
+## Data model
 
+![Data Model](https://github.com/user-attachments/assets/d34a6296-0381-460d-a840-f30ce0a707ee)
 
-- **Project objective:** 
+## About Revenue
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+![About revenue](https://github.com/user-attachments/assets/0a7b740a-ce71-4a91-8da5-15db3fd40471)
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+## About KPI
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+![About KPI](https://github.com/user-attachments/assets/90253c9f-86b7-4cb3-8d7a-fd0878a91ccc)
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+## For Executives
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+![For Executives](https://github.com/user-attachments/assets/32647429-4994-41e3-b8a9-70181d0d9af1)
+
+## Some important insights
+
+![Summary](https://github.com/user-attachments/assets/b105aa82-59da-4630-aedf-0dc8ffd5a401)
+
