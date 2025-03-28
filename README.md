@@ -32,10 +32,11 @@ As a data analyst who has been provided with sample data and a mock-up dashboard
 2.	Calculated Measures and Columns
 3.	DAX (Data Analysis Expressions)
 4.	Effective Chart Selection
-5.	Interactive Dashboard Development
-6.	Identifying Key Trends and Patterns
-7.	Providing Actionable Recommendations
-8.	Understanding Business Context
+5.	Tooltip selections and usage in business
+6.	Interactive Dashboard Development
+7.	Identifying Key Trends and Patterns
+8.	Providing Actionable Recommendations
+9.	Understanding Business Context
 
 ## About Revenue
 
